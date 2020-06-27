@@ -13,6 +13,7 @@
     <string name="btnOcultar">Hide</string>
     <string name="btnRestar">Subtract</string>
     <string name="btnSumar">Add</string>
-    <string name="MascotaPantallaUno">Pet</string>
+    <string name="MascotaPantalla">Pet</string>
     <string name="txtMostrarResultado">Outcome</string>
+    <string name="invalido">invalid, value=0</string>
 </resources>

@@ -18,4 +18,5 @@
     <string name="MascotaPantalla">Mascota</string>
     <string name="txtMostrarResultado">Resultado</string>
     <string name="txtCero" translatable="false">0</string>
+    <string name="invalido">invalido, valor=0</string>
 </resources>
