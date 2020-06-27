@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="txtresultado">Resultado</string>
+    <string name="txtConversor">Conversor Monedas</string>
+    <string name="txtSeleccion">Seleccione una moneda</string>
+    <string name="rdbReal">Real (Brasil)</string>
+    <string name="rdbEuro">Euro</string>
+    <string name="rdbDolar">Dolar (USA)</string>
+    <string name="txtMonto">Ingrese el monto en pesos</string>
+    <string name="btnReiniciar">Reiniciar</string>
+    <string name="btnConvertir">Convertir</string>
+    <string name="btnZoomMas" translatable="false">Zoom +</string>
+    <string name="btnZoomMenos" translatable="false">Zoom -</string>
+    <string name="btnOcultar">Ocultar</string>
+    <string name="btnReset" translatable="false">Reset</string>
+    <string name="btnRestar">Restar</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="MascotaPantalla">Mascota</string>
+    <string name="txtMostrarResultado">Resultado</string>
+    <string name="txtCero" translatable="false">0</string>
+</resources>

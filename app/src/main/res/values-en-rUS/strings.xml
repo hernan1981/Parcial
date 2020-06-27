@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="txtresultado">Outcome</string>
+    <string name="txtConversor">Currency converter</string>
+    <string name="txtSeleccion">Select a currency</string>
+    <string name="rdbReal">Real (Brazil)</string>
+    <string name="rdbEuro">Euro</string>
+    <string name="rdbDolar">Dollar (USA)</string>
+    <string name="txtMonto">Enter the amount in pesos</string>
+    <string name="btnReiniciar">Restart</string>
+    <string name="btnConvertir">Turn into</string>
+    <string name="btnOcultar">Hide</string>
+    <string name="btnRestar">Subtract</string>
+    <string name="btnSumar">Add</string>
+    <string name="MascotaPantallaUno">Pet</string>
+    <string name="txtMostrarResultado">Outcome</string>
+</resources>
